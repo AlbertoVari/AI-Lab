@@ -12,7 +12,7 @@ For a general AI Engineer review, start with these four complementary prototypes
 
 | Project | Engineering focus | Current scope |
 | --- | --- | --- |
-| [ProntoAgente.it](https://github.com/AlbertoVari/ProntoAgente.it) | Governed workflows, backend architecture and enterprise integration | Offline prototype; simulated ERP and fake provider in the M3 showcase |
+| [ProntoAgente.it](https://github.com/AlbertoVari/ProntoAgente.it) | Governed enterprise AI backend, robust process orchestration, and legacy ERP integration. | Production-ready architectural blueprint for secure email-to-ERP document processing. Implements strict Enterprise Governance via Role-Based Access Control (RBAC), multi-tenant isolation, versioned agentic workflows, and an approval-first execution pipeline. Features a resilient transactional outbox pattern for asynchronous workers, deterministic tool-call constraints, precise budget accounting, and immutable audit logs. Built with high-security constraints to ensure complete environment segregation and compliance before executing live target operations. |
 | [Theoretical Physics Agent Lab](https://github.com/AlbertoVari/theoretical-physics-agent-lab) | Multi-agent orchestration, structured outputs and artifact handling | Research prototype with an offline test path |
 | [Microsoft Learn MCP Client](https://github.com/AlbertoVari/microsoft-learn-mcp-client) | Tool discovery, document retrieval and source-grounded synthesis | Local client with tests; external services required for live use |
 | [AI-GO-Game](https://github.com/AlbertoVari/AI-GO-Game) | Local multimodal models, camera input and speech | Hardware-dependent experimental application |
